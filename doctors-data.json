@@ -10,7 +10,8 @@
     "designation": "Senior Consultant",
     "workplace": "Dhaka Medical Hospital",
     "fee": 800,
-    "availability": ["Monday", "Wednesday", "Friday"]
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "shortDescription": "Experienced cardiologist with a focus on heart disease prevention and advanced cardiac care."
   },
   {
     "id": "2",
@@ -23,7 +24,8 @@
     "designation": "Skin Specialist",
     "workplace": "Apollo Hospitals",
     "fee": 700,
-    "availability": ["Tuesday", "Thursday"]
+    "availability": ["Tuesday", "Thursday"],
+    "shortDescription": "Specializes in skin conditions, cosmetic dermatology, and acne treatments."
   },
   {
     "id": "3",
@@ -36,7 +38,8 @@
     "designation": "Associate Professor",
     "workplace": "United Hospital",
     "fee": 900,
-    "availability": ["Sunday", "Wednesday"]
+    "availability": ["Sunday", "Wednesday"],
+    "shortDescription": "Dedicated gynecologist offering comprehensive women's health services and obstetric care."
   },
   {
     "id": "4",
@@ -49,7 +52,8 @@
     "designation": "Consultant",
     "workplace": "Square Hospital",
     "fee": 1000,
-    "availability": ["Monday", "Thursday"]
+    "availability": ["Monday", "Thursday"],
+    "shortDescription": "Expert in bone and joint surgeries with a focus on trauma and sports injuries."
   },
   {
     "id": "5",
@@ -62,7 +66,8 @@
     "designation": "Specialist",
     "workplace": "Bangabandhu Sheikh Mujib Medical University",
     "fee": 850,
-    "availability": ["Tuesday", "Friday"]
+    "availability": ["Tuesday", "Friday"],
+    "shortDescription": "Focused on diagnosing and managing brain and nervous system disorders."
   },
   {
     "id": "6",
@@ -75,7 +80,8 @@
     "designation": "Medical Officer",
     "workplace": "Labaid Hospital",
     "fee": 600,
-    "availability": ["Sunday", "Tuesday", "Thursday"]
+    "availability": ["Sunday", "Tuesday", "Thursday"],
+    "shortDescription": "Internal medicine specialist managing chronic conditions and adult health."
   },
   {
     "id": "7",
@@ -88,7 +94,8 @@
     "designation": "ENT Consultant",
     "workplace": "Green Life Hospital",
     "fee": 750,
-    "availability": ["Monday", "Wednesday", "Saturday"]
+    "availability": ["Monday", "Wednesday", "Saturday"],
+    "shortDescription": "ENT consultant treating ear, nose, and throat conditions with surgical expertise."
   },
   {
     "id": "8",
@@ -101,7 +108,8 @@
     "designation": "Urology Specialist",
     "workplace": "Ibn Sina Hospital",
     "fee": 900,
-    "availability": ["Tuesday", "Thursday"]
+    "availability": ["Tuesday", "Thursday"],
+    "shortDescription": "Specializes in urinary tract and male reproductive health issues."
   },
   {
     "id": "9",
@@ -114,7 +122,8 @@
     "designation": "Child Specialist",
     "workplace": "Shishu Hospital",
     "fee": 500,
-    "availability": ["Saturday", "Sunday", "Monday"]
+    "availability": ["Saturday", "Sunday", "Monday"],
+    "shortDescription": "Dedicated to children's health, growth, and vaccination programs."
   },
   {
     "id": "10",
@@ -127,7 +136,8 @@
     "designation": "Senior Surgeon",
     "workplace": "Central Hospital",
     "fee": 950,
-    "availability": ["Wednesday", "Friday"]
+    "availability": ["Wednesday", "Friday"],
+    "shortDescription": "Experienced in performing general and abdominal surgeries with precision."
   },
   {
     "id": "11",
@@ -140,7 +150,8 @@
     "designation": "OB-GYN Consultant",
     "workplace": "Popular Diagnostic Center",
     "fee": 850,
-    "availability": ["Sunday", "Monday", "Thursday"]
+    "availability": ["Sunday", "Monday", "Thursday"],
+    "shortDescription": "Offers expert care in pregnancy, childbirth, and women's reproductive health."
   },
   {
     "id": "12",
@@ -153,6 +164,7 @@
     "designation": "Psychiatric Specialist",
     "workplace": "National Institute of Mental Health",
     "fee": 700,
-    "availability": ["Tuesday", "Friday", "Saturday"]
+    "availability": ["Tuesday", "Friday", "Saturday"],
+    "shortDescription": "Helps patients manage mental health issues with counseling and medical treatment."
   }
 ]
