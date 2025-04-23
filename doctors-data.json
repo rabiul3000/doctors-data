@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "Dr. Ayesha Rahman",
+    "name": "Dr. Mahfuz Rahman",
     "image": "https://i.ibb.co.com/Lzmy1TjZ/images-10-2.jpg",
     "education": "MBBS, FCPS",
     "speciality": "Cardiologist",
@@ -14,7 +14,7 @@
   },
   {
     "id": "2",
-    "name": "Dr. Rezaul Karim",
+    "name": "Dr. Farhana Siddiqua",
     "image": "https://i.ibb.co.com/0RLQKtm7/images-10-1.jpg",
     "education": "MBBS, MD (Dermatology)",
     "speciality": "Dermatologist",
@@ -27,7 +27,7 @@
   },
   {
     "id": "3",
-    "name": "Dr. Nusrat Jahan",
+    "name": "Dr. Rakib Hasan",
     "image": "https://i.ibb.co.com/tp1FZM1V/images-9.jpg",
     "education": "MBBS, MS (Gynecology)",
     "speciality": "Gynecologist",
@@ -40,7 +40,7 @@
   },
   {
     "id": "4",
-    "name": "Dr. Mahmud Hasan",
+    "name": "Dr. Nazmul Haque",
     "image": "https://i.ibb.co.com/KzD9FwbW/images-8.jpg",
     "education": "MBBS, MS (Orthopedics)",
     "speciality": "Orthopedic Surgeon",
@@ -53,7 +53,7 @@
   },
   {
     "id": "5",
-    "name": "Dr. Farzana Akter",
+    "name": "Dr. Jalal Uddin",
     "image": "https://i.ibb.co.com/LzVwfKCy/images-7.jpg",
     "education": "MBBS, MD (Neurology)",
     "speciality": "Neurologist",
@@ -66,7 +66,7 @@
   },
   {
     "id": "6",
-    "name": "Dr. Tanvir Hossain",
+    "name": "Dr. Mizanur Rahman",
     "image": "https://i.ibb.co.com/VchF6SMD/images-6.jpg",
     "education": "MBBS, FCPS (Medicine)",
     "speciality": "Internal Medicine",
@@ -79,7 +79,7 @@
   },
   {
     "id": "7",
-    "name": "Dr. Lubna Kabir",
+    "name": "Dr. Sazzad Karim",
     "image": "https://i.ibb.co.com/WN9T2gKs/images-5.jpg",
     "education": "MBBS, MS (ENT)",
     "speciality": "ENT Specialist",
@@ -92,7 +92,7 @@
   },
   {
     "id": "8",
-    "name": "Dr. Imran Ahmed",
+    "name": "Dr. Anisur Rahman",
     "image": "https://i.ibb.co.com/1Gb1XLGZ/images-4.jpg",
     "education": "MBBS, MS (Urology)",
     "speciality": "Urologist",
@@ -105,7 +105,7 @@
   },
   {
     "id": "9",
-    "name": "Dr. Sarah Hossain",
+    "name": "Dr. Tareq Aziz",
     "image": "https://i.ibb.co.com/6JtLDq6T/images-3.jpg",
     "education": "MBBS, FCPS (Pediatrics)",
     "speciality": "Pediatrician",
@@ -118,7 +118,7 @@
   },
   {
     "id": "10",
-    "name": "Dr. Arif Mahmud",
+    "name": "Dr. Shahin Alam",
     "image": "https://i.ibb.co.com/V05DBJ7J/images-2.jpg",
     "education": "MBBS, MS (Surgery)",
     "speciality": "General Surgeon",
@@ -131,7 +131,7 @@
   },
   {
     "id": "11",
-    "name": "Dr. Tahmina Sultana",
+    "name": "Dr. Nasir Uddin",
     "image": "https://i.ibb.co.com/JWSzH4By/images-1.jpg",
     "education": "MBBS, DGO",
     "speciality": "Obstetrician",
@@ -144,7 +144,7 @@
   },
   {
     "id": "12",
-    "name": "Dr. Kamrul Islam",
+    "name": "Dr. Samira Yasmin",
     "image": "https://i.ibb.co.com/B5KnBzZb/images.jpg",
     "education": "MBBS, MD (Psychiatry)",
     "speciality": "Psychiatrist",
