@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Dr. Ayesha Rahman",
-    "image": "ayesha.jpg",
+    "image": "https://i.ibb.co.com/Lzmy1TjZ/images-10-2.jpg",
     "education": "MBBS, FCPS",
     "speciality": "Cardiologist",
     "experience": "12 years",
@@ -15,7 +15,7 @@
   {
     "id": "2",
     "name": "Dr. Rezaul Karim",
-    "image": "rezaul.jpg",
+    "image": "https://i.ibb.co.com/0RLQKtm7/images-10-1.jpg",
     "education": "MBBS, MD (Dermatology)",
     "speciality": "Dermatologist",
     "experience": "8 years",
@@ -28,7 +28,7 @@
   {
     "id": "3",
     "name": "Dr. Nusrat Jahan",
-    "image": "nusrat.jpg",
+    "image": "https://i.ibb.co.com/tp1FZM1V/images-9.jpg",
     "education": "MBBS, MS (Gynecology)",
     "speciality": "Gynecologist",
     "experience": "10 years",
@@ -41,7 +41,7 @@
   {
     "id": "4",
     "name": "Dr. Mahmud Hasan",
-    "image": "mahmud.jpg",
+    "image": "https://i.ibb.co.com/KzD9FwbW/images-8.jpg",
     "education": "MBBS, MS (Orthopedics)",
     "speciality": "Orthopedic Surgeon",
     "experience": "15 years",
@@ -54,7 +54,7 @@
   {
     "id": "5",
     "name": "Dr. Farzana Akter",
-    "image": "farzana.jpg",
+    "image": "https://i.ibb.co.com/LzVwfKCy/images-7.jpg",
     "education": "MBBS, MD (Neurology)",
     "speciality": "Neurologist",
     "experience": "9 years",
@@ -67,7 +67,7 @@
   {
     "id": "6",
     "name": "Dr. Tanvir Hossain",
-    "image": "tanvir.jpg",
+    "image": "https://i.ibb.co.com/VchF6SMD/images-6.jpg",
     "education": "MBBS, FCPS (Medicine)",
     "speciality": "Internal Medicine",
     "experience": "7 years",
@@ -80,7 +80,7 @@
   {
     "id": "7",
     "name": "Dr. Lubna Kabir",
-    "image": "lubna.jpg",
+    "image": "https://i.ibb.co.com/WN9T2gKs/images-5.jpg",
     "education": "MBBS, MS (ENT)",
     "speciality": "ENT Specialist",
     "experience": "11 years",
@@ -93,7 +93,7 @@
   {
     "id": "8",
     "name": "Dr. Imran Ahmed",
-    "image": "imran.jpg",
+    "image": "https://i.ibb.co.com/1Gb1XLGZ/images-4.jpg",
     "education": "MBBS, MS (Urology)",
     "speciality": "Urologist",
     "experience": "6 years",
@@ -106,7 +106,7 @@
   {
     "id": "9",
     "name": "Dr. Sarah Hossain",
-    "image": "sarah.jpg",
+    "image": "https://i.ibb.co.com/6JtLDq6T/images-3.jpg",
     "education": "MBBS, FCPS (Pediatrics)",
     "speciality": "Pediatrician",
     "experience": "5 years",
@@ -119,7 +119,7 @@
   {
     "id": "10",
     "name": "Dr. Arif Mahmud",
-    "image": "arif.jpg",
+    "image": "https://i.ibb.co.com/V05DBJ7J/images-2.jpg",
     "education": "MBBS, MS (Surgery)",
     "speciality": "General Surgeon",
     "experience": "14 years",
@@ -132,7 +132,7 @@
   {
     "id": "11",
     "name": "Dr. Tahmina Sultana",
-    "image": "tahmina.jpg",
+    "image": "https://i.ibb.co.com/JWSzH4By/images-1.jpg",
     "education": "MBBS, DGO",
     "speciality": "Obstetrician",
     "experience": "10 years",
@@ -145,7 +145,7 @@
   {
     "id": "12",
     "name": "Dr. Kamrul Islam",
-    "image": "kamrul.jpg",
+    "image": "https://i.ibb.co.com/B5KnBzZb/images.jpg",
     "education": "MBBS, MD (Psychiatry)",
     "speciality": "Psychiatrist",
     "experience": "13 years",
